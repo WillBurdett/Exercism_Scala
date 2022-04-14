@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/two-fer/src/main/scala/Twofer.scala:6:58: not found: value nothing[0m
+[0m[[0m[31merror[0m] [0m[0m  def twofer(name: String = "you"): String = if (name == nothing) "One for you, one for me." else "One for " + name + ", one for me."[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
