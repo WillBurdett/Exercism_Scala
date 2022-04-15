@@ -1,0 +1,64 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:11:12: value db is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.db should be (Map())[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:16:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Aimee", 2)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:17:12: value db is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.db should be (Map(2 -> Seq("Aimee")))[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:22:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("James", 2)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:23:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Blair", 2)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:24:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Paul", 2)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:25:12: value db is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.db should be (Map(2 -> Seq("James", "Blair", "Paul")))[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:30:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Chelsea", 3)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:31:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Logan", 7)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:32:12: value db is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.db should be (Map(3 -> Seq("Chelsea"), 7 -> Seq("Logan")))[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:37:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Franklin", 5)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:38:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Bradley", 5)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:39:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Jeff", 1)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:40:12: value grade is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.grade(5) should be (Seq("Franklin", "Bradley"))[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:45:12: value grade is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.grade(1) should be (Seq())[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:50:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Jennifer", 4)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:51:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Kareem", 6)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:52:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Christopher", 4)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:53:12: value add is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.add("Kyle", 3)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:59:12: value sorted is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.sorted should be (sorted)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:60:12: value sorted is not a member of School[0m
+[0m[[0m[31merror[0m] [0m[0m    school.sorted.keys.toList should be (Seq(3, 4, 6))[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m21 errors found[0m
