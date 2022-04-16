@@ -19,7 +19,7 @@ class School {
 
   }
 
-  def grade(g: Int): Seq[String] = db(g)
+  def grade(g: Int): Seq[String] = if (!db.contains(g)) Seq() else db(g)
 
   def sorted: DB =
 //    var sortedKeys = db.keys.toList.sorted

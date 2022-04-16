@@ -37,7 +37,6 @@ class GradeSchoolTest extends AnyFunSuite with Matchers with OneInstancePerTest 
   }
 
   test ("get students in a non-existent grade") {
-    pending
     school.grade(1) should be (Seq())
   }
 
