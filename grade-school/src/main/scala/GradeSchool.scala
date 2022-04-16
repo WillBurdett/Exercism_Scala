@@ -9,6 +9,7 @@ class School {
        db += (g -> Seq(name))
        println(db(g))
      }else {
+       // todo -- Refactor when properly learned Maps and Lists in Scala
        println("name before adding: " + name)
        println("value before adding: " + db(g))
        var both = (g, db(g) ++ Seq(name))
