@@ -2,7 +2,6 @@ class School {
 
   type DB = Map[Int, Seq[String]]
 
-
   var db: DB = Map()
 
   def add(name: String, g: Int) = {
@@ -16,15 +15,18 @@ class School {
        db = db + both
        println("map after adding: " + db)
      }
-
   }
 
   def grade(g: Int): Seq[String] = if (!db.contains(g)) Seq() else db(g)
 
-  def sorted: DB =
-//    var sortedKeys = db.keys.toList.sorted
-//    var result = Map()
-  db
+  def sorted(): DB = {
+    var sortedKeys = db.keys.toList.sorted
+    var result: DB = Map()
 
+    for (key <- sortedKeys) {
+      result += (key -> db(key).sorted)
+    }
+    result
+  }
 }
 

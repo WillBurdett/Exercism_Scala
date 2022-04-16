@@ -41,7 +41,6 @@ class GradeSchoolTest extends AnyFunSuite with Matchers with OneInstancePerTest 
   }
 
   test ("sort school") {
-    pending
     school.add("Jennifer", 4)
     school.add("Kareem", 6)
     school.add("Christopher", 4)
