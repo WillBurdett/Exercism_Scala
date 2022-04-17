@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/armstrong-numbers/src/test/scala/ArmstrongNumbersTest.scala:9:5: not found: value ArmstrongNumbers[0m
+[0m[[0m[31merror[0m] [0m[0m    ArmstrongNumbers.isArmstrongNumber(5) should be (true)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/armstrong-numbers/src/test/scala/ArmstrongNumbersTest.scala:14:5: not found: value ArmstrongNumbers[0m
+[0m[[0m[31merror[0m] [0m[0m    ArmstrongNumbers.isArmstrongNumber(10) should be (false)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/armstrong-numbers/src/test/scala/ArmstrongNumbersTest.scala:19:5: not found: value ArmstrongNumbers[0m
+[0m[[0m[31merror[0m] [0m[0m    ArmstrongNumbers.isArmstrongNumber(153) should be (true)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/armstrong-numbers/src/test/scala/ArmstrongNumbersTest.scala:24:5: not found: value ArmstrongNumbers[0m
+[0m[[0m[31merror[0m] [0m[0m    ArmstrongNumbers.isArmstrongNumber(100) should be (false)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/armstrong-numbers/src/test/scala/ArmstrongNumbersTest.scala:29:5: not found: value ArmstrongNumbers[0m
+[0m[[0m[31merror[0m] [0m[0m    ArmstrongNumbers.isArmstrongNumber(9474) should be (true)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/armstrong-numbers/src/test/scala/ArmstrongNumbersTest.scala:34:5: not found: value ArmstrongNumbers[0m
+[0m[[0m[31merror[0m] [0m[0m    ArmstrongNumbers.isArmstrongNumber(9475) should be (false)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/armstrong-numbers/src/test/scala/ArmstrongNumbersTest.scala:39:5: not found: value ArmstrongNumbers[0m
+[0m[[0m[31merror[0m] [0m[0m    ArmstrongNumbers.isArmstrongNumber(9926315) should be (true)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/armstrong-numbers/src/test/scala/ArmstrongNumbersTest.scala:44:5: not found: value ArmstrongNumbers[0m
+[0m[[0m[31merror[0m] [0m[0m    ArmstrongNumbers.isArmstrongNumber(9926314) should be (false)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m
