@@ -14,12 +14,10 @@ class ArmstrongNumbersTest extends AnyFunSuite with Matchers {
   }
 
   test("Three digit number that is an Armstrong number") {
-    pending
     ArmstrongNumbers.isArmstrongNumber(153) should be (true)
   }
 
   test("Three digit number that is not an Armstrong number") {
-    pending
     ArmstrongNumbers.isArmstrongNumber(100) should be (false)
   }
 
