@@ -22,22 +22,18 @@ class ArmstrongNumbersTest extends AnyFunSuite with Matchers {
   }
 
   test("Four digit number that is an Armstrong number") {
-    pending
     ArmstrongNumbers.isArmstrongNumber(9474) should be (true)
   }
 
   test("Four digit number that is not an Armstrong number") {
-    pending
     ArmstrongNumbers.isArmstrongNumber(9475) should be (false)
   }
 
   test("Seven digit number that is an Armstrong number") {
-    pending
     ArmstrongNumbers.isArmstrongNumber(9926315) should be (true)
   }
 
   test("Seven digit number that is not an Armstrong number") {
-    pending
     ArmstrongNumbers.isArmstrongNumber(9926314) should be (false)
   }
 }
