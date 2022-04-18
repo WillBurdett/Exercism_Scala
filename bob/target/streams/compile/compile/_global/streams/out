@@ -1,7 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/bob/src/main/scala/Bob.scala:4:18: not found: value input[0m
-[0m[[0m[31merror[0m] [0m[0m    if(isAllCaps(input) && inputToArr(inputToArr.length - 1) == "?"){[0m
-[0m[[0m[31merror[0m] [0m[0m                 ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/bob/src/main/scala/Bob.scala:6:26: not found: value input[0m
-[0m[[0m[31merror[0m] [0m[0m    } else if (isAllCaps(input) && inputToArr(inputToArr.length - 1) == "!"){[0m
-[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/bob/src/main/scala/Bob.scala:22:7: illegal start of simple pattern[0m
+[0m[[0m[31merror[0m] [0m[0m  val match = letterPattern findFirstIn input[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/bob/src/main/scala/Bob.scala:23:3: '=' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
 [0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

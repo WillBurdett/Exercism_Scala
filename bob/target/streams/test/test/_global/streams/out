@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BobTest, org.scalatest.tools.Framework$$anon$1@53429c99, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BobTest, org.scalatest.tools.Framework$$anon$1@606a1f0, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mBobTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- stating something[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- shouting[0m[0m
@@ -7,28 +7,28 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- asking a numeric question[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- asking gibberish[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- talking forcefully[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- using acronyms in regular speech (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- forceful question (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- shouting numbers (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- no letters (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- question with no letters (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- shouting with special characters (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- shouting with no exclamation mark (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- statement containing question mark (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- non-letters with question (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- prattling on (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- silence (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- prolonged silence (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- using acronyms in regular speech[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- forceful question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting numbers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no letters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- question with no letters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting with special characters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting with no exclamation mark[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- statement containing question mark[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- non-letters with question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- prattling on[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- silence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- prolonged silence[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[33m- alternate silence (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiple line question (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- starting with whitespace (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- ending with whitespace (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiple line question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- starting with whitespace[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ending with whitespace[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[33m- other whitespace (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- non-question ending with whitespace (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 164 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- non-question ending with whitespace[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 171 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 23[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 18[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 23, failed 0, canceled 0, ignored 0, pending 2[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BobTest[0m
