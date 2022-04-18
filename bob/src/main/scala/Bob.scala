@@ -7,7 +7,7 @@ object Bob extends App{
       "Calm down, I know what I'm doing!"
     } else if (isAllCaps(statement) && containsLetters(statement)){
       "Whoa, chill out!"
-    } else if (statement.replaceAll(" ", "") == ""){
+    } else if (statement.trim == ""){
       "Fine. Be that way!"
     } else if (inputToArr(inputToArr.length - 1) == "?"){
       "Sure."

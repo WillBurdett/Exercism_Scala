@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BobTest, org.scalatest.tools.Framework$$anon$1@606a1f0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BobTest, org.scalatest.tools.Framework$$anon$1@28dfbfa7, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mBobTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- stating something[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- shouting[0m[0m
@@ -19,16 +19,16 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- prattling on[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- silence[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- prolonged silence[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- alternate silence (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- alternate silence[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- multiple line question[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- starting with whitespace[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- ending with whitespace[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- other whitespace (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- other whitespace[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- non-question ending with whitespace[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 171 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 23[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 160 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 25[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 23, failed 0, canceled 0, ignored 0, pending 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 25, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BobTest[0m

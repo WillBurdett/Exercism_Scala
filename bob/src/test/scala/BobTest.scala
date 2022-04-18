@@ -86,7 +86,6 @@ class BobTest extends AnyFunSuite with Matchers {
   }
 
   test("alternate silence") {
-    pending
     Bob.response("										") should be("Fine. Be that way!")
   }
 
@@ -106,7 +105,6 @@ No.""") should be("Whatever.")
   }
 
   test("other whitespace") {
-    pending
     Bob.response("""
                  	""") should be("Fine. Be that way!")
   }
