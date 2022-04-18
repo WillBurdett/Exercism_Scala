@@ -3,7 +3,7 @@ object Bob {
     var inputToArr = statement.replaceAll(" ", "").split("")
     if(isAllCaps(statement) && inputToArr(inputToArr.length - 1) == "?"){
       "Calm down, I know what I'm doing!"
-    } else if (isAllCaps(statement) && inputToArr(inputToArr.length - 1) == "!"){
+    } else if (isAllCaps(statement)){
       "Whoa, chill out!"
     } else if (statement.replaceAll(" ", "") == ""){
       "Fine. Be that way!"

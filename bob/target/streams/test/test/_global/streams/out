@@ -1,12 +1,12 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BobTest, org.scalatest.tools.Framework$$anon$1@493ffdd9, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BobTest, org.scalatest.tools.Framework$$anon$1@53429c99, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mBobTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- stating something[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- shouting (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- shouting gibberish (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- asking a question (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- asking a numeric question (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- asking gibberish (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- talking forcefully (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting gibberish[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking a question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking a numeric question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking gibberish[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- talking forcefully[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[33m- using acronyms in regular speech (pending)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[33m- forceful question (pending)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[33m- shouting numbers (pending)[0m[0m
@@ -26,9 +26,9 @@
 [0m[[0m[0minfo[0m] [0m[0m[33m- other whitespace (pending)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[33m- non-question ending with whitespace (pending)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 164 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 24[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 18[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BobTest[0m
