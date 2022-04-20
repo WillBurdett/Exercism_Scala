@@ -1,4 +1,3 @@
-import scala.util.matching.Regex
 
 object Hamming extends App {
   def distance(a: String, b: String): Some[Int] = {

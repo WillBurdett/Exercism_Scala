@@ -10,17 +10,14 @@ class HammingTest extends AnyFunSuite with Matchers {
   }
 
   test("identical strands") {
-    pending
     Hamming.distance("A", "A") should be (Some(0))
   }
 
   test("long identical strands") {
-    pending
     Hamming.distance("GGACTGA", "GGACTGA") should be (Some(0))
   }
 
   test("complete distance in single nucleotide strands") {
-    pending
     Hamming.distance("A", "G") should be (Some(1))
   }
 
