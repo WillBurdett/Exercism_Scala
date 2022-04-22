@@ -1,13 +1,13 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(EtlTest, org.scalatest.tools.Framework$$anon$1@65b0fb33, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(EtlTest, org.scalatest.tools.Framework$$anon$1@2f6dcf5d, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mEtlTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- a single letter[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- single score with multiple letters (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiple scores with multiple letters (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- multiple scores with differing numbers of letters (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 153 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- single score with multiple letters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiple scores with multiple letters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiple scores with differing numbers of letters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 157 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	EtlTest[0m
