@@ -1,0 +1,26 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TriangleTest, org.scalatest.tools.Framework$$anon$1@6869b1fe, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTriangleTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- equilateral - true if all sides are equal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- equilateral - false if any side is unequal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- equilateral - false if no sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- equilateral - All zero sides are illegal, so the triangle is not equilateral (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- equilateral - sides may be floats (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- isosceles - true if last two sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- isosceles - true if first two sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- isosceles - true if first and last sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- isosceles - equilateral triangles are also isosceles (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- isosceles - false if no sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- isosceles - Sides that violate triangle inequality are not isosceles, even if two are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- isosceles - sides may be floats (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- scalene - true if no sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- scalene - false if all sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- scalene - false if two sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- scalene - Sides that violate triangle inequality are not scalene, even if they are all different (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- scalene - sides may be floats (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 158 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 16[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TriangleTest[0m
