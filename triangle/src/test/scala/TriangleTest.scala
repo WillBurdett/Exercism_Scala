@@ -22,32 +22,26 @@ class TriangleTest extends AnyFunSuite with Matchers {
   }
 
   test("equilateral - sides may be floats") {
-    pending
     Triangle(0.5, 0.5, 0.5).equilateral should be (true)
   }
 
   test("isosceles - true if last two sides are equal") {
-    pending
     Triangle(3, 4, 4).isosceles should be (true)
   }
 
   test("isosceles - true if first two sides are equal") {
-    pending
     Triangle(4, 4, 3).isosceles should be (true)
   }
 
   test("isosceles - true if first and last sides are equal") {
-    pending
     Triangle(4, 3, 4).isosceles should be (true)
   }
 
   test("isosceles - equilateral triangles are also isosceles") {
-    pending
     Triangle(4, 4, 4).isosceles should be (true)
   }
 
   test("isosceles - false if no sides are equal") {
-    pending
     Triangle(2, 3, 4).isosceles should be (false)
   }
 
