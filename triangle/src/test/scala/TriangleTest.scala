@@ -10,17 +10,14 @@ class TriangleTest extends AnyFunSuite with Matchers {
   }
 
   test("equilateral - false if any side is unequal") {
-    pending
     Triangle(2, 3, 2).equilateral should be (false)
   }
 
   test("equilateral - false if no sides are equal") {
-    pending
     Triangle(5, 4, 6).equilateral should be (false)
   }
 
   test("equilateral - All zero sides are illegal, so the triangle is not equilateral") {
-    pending
     Triangle(0, 0, 0).equilateral should be (false)
   }
 
