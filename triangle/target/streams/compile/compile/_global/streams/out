@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/triangle/src/main/scala/Triangle.scala:1:37: unbound wildcard type[0m
+[0m[[0m[31merror[0m] [0m[0mcase class Triangle (a: _, b: _, c: _){[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
