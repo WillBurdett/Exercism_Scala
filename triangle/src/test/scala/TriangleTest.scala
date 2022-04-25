@@ -46,37 +46,30 @@ class TriangleTest extends AnyFunSuite with Matchers {
   }
 
   test("isosceles - Sides that violate triangle inequality are not isosceles, even if two are equal") {
-    pending
     Triangle(1, 1, 3).isosceles should be (false)
   }
 
   test("isosceles - sides may be floats") {
-    pending
     Triangle(0.5, 0.4, 0.5).isosceles should be (true)
   }
 
   test("scalene - true if no sides are equal") {
-    pending
     Triangle(5, 4, 6).scalene should be (true)
   }
 
   test("scalene - false if all sides are equal") {
-    pending
     Triangle(4, 4, 4).scalene should be (false)
   }
 
   test("scalene - false if two sides are equal") {
-    pending
     Triangle(4, 4, 3).scalene should be (false)
   }
 
   test("scalene - Sides that violate triangle inequality are not scalene, even if they are all different") {
-    pending
     Triangle(7, 3, 2).scalene should be (false)
   }
 
   test("scalene - sides may be floats") {
-    pending
     Triangle(0.5, 0.4, 0.6).scalene should be (true)
   }
 }
