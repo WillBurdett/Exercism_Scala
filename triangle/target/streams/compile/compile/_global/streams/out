@@ -1,4 +1,10 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/triangle/src/main/scala/Triangle.scala:1:37: unbound wildcard type[0m
-[0m[[0m[31merror[0m] [0m[0mcase class Triangle (a: _, b: _, c: _){[0m
-[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/triangle/src/main/scala/Triangle.scala:7:34: value a is not a member of object Double[0m
+[0m[[0m[31merror[0m] [0m[0m      var numA: Double = (Double)a[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/triangle/src/main/scala/Triangle.scala:8:34: value b is not a member of object Double[0m
+[0m[[0m[31merror[0m] [0m[0m      var numB: Double = (Double)b[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/triangle/src/main/scala/Triangle.scala:9:34: value c is not a member of object Double[0m
+[0m[[0m[31merror[0m] [0m[0m      var numC: Double = (Double)c[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
