@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(StrainTest, org.scalatest.tools.Framework$$anon$1@53441733, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mStrainTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should handle empty keep[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should keep everything[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should keep first and last[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should keep neither first or last (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should keep strings (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should keep sequences (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should handle empty discard (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should discard first and last (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should discard neither first or last (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should discard strings (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should discard sequences (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 156 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 3, failed 0, canceled 0, ignored 0, pending 8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StrainTest[0m

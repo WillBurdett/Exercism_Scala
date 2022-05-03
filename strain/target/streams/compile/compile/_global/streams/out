@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/strain/src/main/scala/Strain.scala:3:57: A does not take type parameters[0m
+[0m[[0m[31merror[0m] [0m[0m  def keep[T, A](input: A[T], predicate: T => Boolean): A[T] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/strain/src/main/scala/Strain.scala:3:25: A does not take type parameters[0m
+[0m[[0m[31merror[0m] [0m[0m  def keep[T, A](input: A[T], predicate: T => Boolean): A[T] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
