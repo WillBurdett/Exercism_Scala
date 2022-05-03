@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/strain/src/test/scala/StrainTest.scala:50:25: value discard is not a member of object Strain[0m
+[0m[[0m[31merror[0m] [0m[0m    val result = Strain.discard[Int](List(), x => x < 10)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/strain/src/test/scala/StrainTest.scala:56:25: value discard is not a member of object Strain[0m
+[0m[[0m[31merror[0m] [0m[0m    val result = Strain.discard[Int](List(1, 2, 3), x => x % 2 != 0)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/strain/src/test/scala/StrainTest.scala:62:25: value discard is not a member of object Strain[0m
+[0m[[0m[31merror[0m] [0m[0m    val result = Strain.discard[Int](List(1, 2, 3, 4, 5), x => x % 2 == 0)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/strain/src/test/scala/StrainTest.scala:69:25: value discard is not a member of object Strain[0m
+[0m[[0m[31merror[0m] [0m[0m    val result = Strain.discard[String](words, s => s.startsWith("z"))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/strain/src/test/scala/StrainTest.scala:78:25: value discard is not a member of object Strain[0m
+[0m[[0m[31merror[0m] [0m[0m    val result = Strain.discard[Seq[Int]](sequences, seq => seq.contains(5))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
