@@ -8,6 +8,7 @@ object BeerSong {
     def verseWriter(currentBottleNum: Int, versesRemainingToWrite: Int):Unit = {
       if (versesRemainingToWrite == 0) return
       else {
+        if (requestedVerses != "") requestedVerses += "\n"
         currentBottleNum match {
           case 0 => requestedVerses += "No more bottles of beer on the wall, no more bottles of beer.\nGo to the store and buy some more, 99 bottles of beer on the wall.\n"
           case 1 => requestedVerses += "1 bottle of beer on the wall, 1 bottle of beer.\nTake it down and pass it around, no more bottles of beer on the wall.\n"
@@ -18,6 +19,7 @@ object BeerSong {
       }
     }
     verseWriter(startingBottles, totalVersesRequested)
+    println(requestedVerses)
     requestedVerses
   }
 }
