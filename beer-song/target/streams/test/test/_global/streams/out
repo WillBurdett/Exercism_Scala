@@ -1,17 +1,17 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BeerSongTest, org.scalatest.tools.Framework$$anon$1@8753ec5, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BeerSongTest, org.scalatest.tools.Framework$$anon$1@5afb2496, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mBeerSongTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- first generic verse[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- last generic verse (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- verse with 2 bottles (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- verse with 1 bottle (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- verse with 0 bottles (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- first two verses (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- last three verses (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- all verses (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 159 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- last generic verse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- verse with 2 bottles[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- verse with 1 bottle[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- verse with 0 bottles[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- first two verses[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- last three verses[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- all verses[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 163 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 8[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BeerSongTest[0m
