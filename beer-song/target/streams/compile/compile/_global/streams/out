@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/beer-song/src/main/scala/BeerSong.scala:6:11: not found: value versesRequested[0m
+[0m[[0m[31merror[0m] [0m[0m      if (versesRequested == 0) return[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
