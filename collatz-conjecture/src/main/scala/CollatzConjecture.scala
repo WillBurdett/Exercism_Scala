@@ -2,7 +2,7 @@ import scala.annotation.tailrec
 
 object CollatzConjecture{
   def steps(num: Int): Option[Int] = {
-
+    if (num <= 0) return None
     @tailrec
     def calculator(calcInput: Int, calcIteration: Int): Option[Int] = {
       calcInput match {
