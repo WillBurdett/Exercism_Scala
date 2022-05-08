@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/main/scala/Clock.scala:51:72: value clockHour is not a member of object Clock[0m
+[0m[[0m[31merror[0m] [0m[0m  override def equals(input: Clock): Boolean = input.clockHour == this.clockHour && input.clockMinute == this.clockMinute[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/main/scala/Clock.scala:51:111: value clockMinute is not a member of object Clock[0m
+[0m[[0m[31merror[0m] [0m[0m  override def equals(input: Clock): Boolean = input.clockHour == this.clockHour && input.clockMinute == this.clockMinute[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
