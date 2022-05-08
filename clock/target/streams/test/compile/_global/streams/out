@@ -1,0 +1,65 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:104:25: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Clock[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(10, 0) + Clock(3) should be(Clock(10, 3))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:109:25: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Clock[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(6, 41) + Clock(0) should be(Clock(6, 41))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:114:25: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Clock[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(0, 45) + Clock(40) should be(Clock(1, 25))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:119:25: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Clock[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(10, 0) + Clock(61) should be(Clock(11, 1))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:124:25: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Clock[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(0, 45) + Clock(160) should be(Clock(3, 25))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:129:26: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Clock[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(23, 59) + Clock(2) should be(Clock(0, 1))[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:134:25: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Clock[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(5, 32) + Clock(1500) should be(Clock(6, 32))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:139:24: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Clock[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(1, 1) + Clock(3500) should be(Clock(11, 21))[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:144:18: value - is not a member of Clock[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(10, 3) - Clock(3) should be(Clock(10, 0))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:149:18: value - is not a member of Clock[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(10, 3) - Clock(30) should be(Clock(9, 33))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:154:18: value - is not a member of Clock[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(10, 3) - Clock(70) should be(Clock(8, 53))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:159:17: value - is not a member of Clock[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(0, 3) - Clock(4) should be(Clock(23, 59))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:164:17: value - is not a member of Clock[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(0, 0) - Clock(160) should be(Clock(21, 20))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:169:18: value - is not a member of Clock[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(6, 15) - Clock(160) should be(Clock(3, 35))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:174:18: value - is not a member of Clock[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(5, 32) - Clock(1500) should be(Clock(4, 32))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/clock/src/test/scala/ClockTest.scala:179:18: value - is not a member of Clock[0m
+[0m[[0m[31merror[0m] [0m[0m    Clock(2, 20) - Clock(3000) should be(Clock(0, 20))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m16 errors found[0m
