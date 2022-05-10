@@ -1,14 +1,14 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(RnaTranscriptionTest, org.scalatest.tools.Framework$$anon$1@447347a6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(RnaTranscriptionTest, org.scalatest.tools.Framework$$anon$1@27268ddc, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mRnaTranscriptionTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- RNA complement of cytosine is guanine[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- RNA complement of guanine is cytosine[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- RNA complement of thymine is adenine[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- RNA complement of adenine is uracil[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33m- RNA complement (pending)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 157 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- RNA complement[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 340 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 5[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RnaTranscriptionTest[0m
