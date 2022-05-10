@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/williamburdett/Exercism/scala/flatten-array/src/main/scala/FlattenArray.scala:5:46: comparing values of types Int and Null using `!=` will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0m    flatten(input).filter(element => element != null)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
