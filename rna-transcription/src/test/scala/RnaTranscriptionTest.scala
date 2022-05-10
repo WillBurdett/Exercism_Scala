@@ -23,7 +23,6 @@ class RnaTranscriptionTest extends AnyFunSuite with Matchers {
   }
 
   test("RNA complement") {
-    pending
     RnaTranscription.toRna("ACGTGGTCTTAA") should be(Some("UGCACCAGAAUU"))
   }
 }
