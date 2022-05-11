@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FlattenArrayTest, org.scalatest.tools.Framework$$anon$1@1a9d1a82, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFlattenArrayTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no nesting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- flattens array with just integers present[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 5 level nesting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 6 level nesting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- 6 level nest list with null values *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List(0, 2, 2, 3, 8, 100, null, null, -2) was not equal to List(0, 2, 2, 3, 8, 100, -2) (FlattenArrayTest.scala:33)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Analysis:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List(6: null -> -2, 7: null -> , 8: -2 -> )[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- all values in nested list are null *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List(null, null, null, null, null, null, null, null) was not equal to List() (FlattenArrayTest.scala:41)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Analysis:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List(0: null -> , 1: null -> , 2: null -> , 3: null -> , 4: null -> , 5: null -> , 6: null -> , 7: null -> )[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 389 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 2, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 2 TESTS FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	FlattenArrayTest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

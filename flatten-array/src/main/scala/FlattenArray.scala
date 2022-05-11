@@ -1,20 +1,18 @@
 
 object FlattenArray{
 
-  def flatten(input: List[Any]): List[Int] = {
-    var mutableList = input
+  def flatten(l: List[Any]): List[Any] = {
+    def _flatten(result: List[Any], remainingList: List[Any]):List[Any] =
 
-    for (element <- mutableList){
-      element match {
-        case _: Integer => println("Integer")
-        case _: Seq[Int] => println("Sequence of Ints")
-        case _: Seq[Any] => println("Sequence of anything")
+      remainingList match {
+        // if the remainingList is empty, return the result
+        case Nil => result
+        //
+        case (h:List[_])::Nil => _flatten(result, h)
+        case (h:List[_])::tail => _flatten(result:::flatten(h), tail)
+        case h::tail => _flatten(result:::List(h), tail)
       }
-      if (element.isInstanceOf[Seq[Any]]){
-        println(element + " is iterable")
-      }
-    }
-    List()
+    _flatten(List(), l)
   }
 
   flatten(List(1,2,3, List(9,9,9)))
