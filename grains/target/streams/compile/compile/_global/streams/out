@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/williamburdett/Exercism/scala/grains/src/main/scala/Grains.scala:7:68: class Option takes type parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    def doubleCurrentGrains(totalGrains: Int, currentSquare: Int): Option = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

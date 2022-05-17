@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(GrainsTest, org.scalatest.tools.Framework$$anon$1@44ed58ae, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGrainsTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- 2 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- 3 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- 4 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- 16 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- 32 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- 64 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- square 0 raises an exception (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- negative square raises an exception (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- square greater than 64 raises an exception (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- returns the total number of grains on the board (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 426 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GrainsTest[0m
