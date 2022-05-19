@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Williams-MacBook-Air.local" name="PangramTest" tests="10" errors="0" failures="0" skipped="0" time="0.029" timestamp="2022-05-19T12:49:15">
+          <properties>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.specification.version" value="11"/><property name="sun.cpu.isalist" value=""/><property name="sun.jnu.encoding" value="UTF-8"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="https://openjdk.java.net/"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.14.jdk/Contents/Home/lib"/><property name="sun.java.command" value="/opt/homebrew/Cellar/sbt/1.6.2/libexec/bin/sbt-launch.jar test"/><property name="jdk.debug" value="release"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2022-01-18"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.14.jdk/Contents/Home"/><property name="file.separator" value="/"/><property name="java.vm.compressedOopsMode" value="Zero based"/><property name="line.separator" value="
+"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="11.0.14+8-LTS-263"/><property name="user.name" value="williamburdett"/><property name="log4j.ignoreTCL" value="true"/><property name="file.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/Users/williamburdett/Library/Caches/JNA/temp/jna15864235576838700034.tmp"/><property name="java.vendor.version" value="18.9"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="/var/folders/f8/7ld0777j387f1fm6gqqv8pvc0000gn/T/"/><property name="java.version" value="11.0.14"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="sun.os.patch.level" value="unknown"/><property name="java.library.path" value="/Users/williamburdett/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.vendor" value="Oracle Corporation"/><property name="scala.ext.dirs" value="/Users/williamburdett/.sbt/1.0/java9-rt-ext-oracle_corporation_11_0_14"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="gopherProxySet" value="false"/><property name="java.class.path" value="/opt/homebrew/Cellar/sbt/1.6.2/libexec/bin/sbt-launch.jar"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Europe/London"/><property name="os.name" value="Mac OS X"/><property name="java.vm.specification.version" value="11"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="GB"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="/Users/williamburdett"/><property name="user.language" value="en"/><property name="sbt.script" value="/opt/homebrew/Cellar/sbt/1.6.2/libexec/bin/sbt"/><property name="swoval.tmpdir" value="/Users/williamburdett/.sbt/1.0"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="jline.esc.timeout" value="0"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="path.separator" value=":"/><property name="os.version" value="11.3.1"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="jna.platform.library.path" value="/usr/lib:/usr/lib"/><property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/><property name="user.dir" value="/Users/williamburdett/Exercism/scala/pangram"/><property name="os.arch" value="x86_64"/><property name="java.vm.info" value="mixed mode"/><property name="java.vm.version" value="11.0.14+8-LTS-263"/><property name="java.class.version" value="55.0"/>
+    </properties>
+          <testcase classname="PangramTest" name="sentence empty" time="0.022">
+                      
+                    </testcase><testcase classname="PangramTest" name="recognizes a perfect lower case pangram" time="0.002">
+                      
+                    </testcase><testcase classname="PangramTest" name="pangram with only lower case" time="0.001">
+                      
+                    </testcase><testcase classname="PangramTest" name="missing character 'x'" time="0.001">
+                      
+                    </testcase><testcase classname="PangramTest" name="another missing character, e.g. 'h'" time="0.0">
+                      
+                    </testcase><testcase classname="PangramTest" name="pangram with underscores" time="0.001">
+                      
+                    </testcase><testcase classname="PangramTest" name="pangram with numbers" time="0.0">
+                      
+                    </testcase><testcase classname="PangramTest" name="missing letters replaced by numbers" time="0.001">
+                      
+                    </testcase><testcase classname="PangramTest" name="pangram with mixed case and punctuation" time="0.0">
+                      
+                    </testcase><testcase classname="PangramTest" name="upper and lower case versions of the same character should not be counted separately" time="0.001">
+                      
+                    </testcase>
+          <system-out><![CDATA[]]></system-out>
+          <system-err><![CDATA[]]></system-err>
+        </testsuite>
